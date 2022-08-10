@@ -1,5 +1,16 @@
 {
-  "publishConfig": {
-  "registry": "https://npm.pkg.github.com"
-}
+  "your": "json config here",
+  "name": "@AnttiHal/publish-package-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnttiHal/publish-package-exercise/issues"
+  },
+  "homepage": "https://github.com/AnttiHal/publish-package-exercise#readme",
+  "description": ""
 }
