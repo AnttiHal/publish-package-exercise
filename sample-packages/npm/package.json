@@ -1,6 +1,6 @@
 {
   "your": "json config here",
-  "name": "@AnttiHal/publish-package-exercise",
+  "name": "@anttihal/publish-package-exercise",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
